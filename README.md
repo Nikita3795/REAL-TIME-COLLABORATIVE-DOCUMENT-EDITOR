@@ -1,3 +1,11 @@
+*COMPANY NAME*: CODTECH IT SOLUTIONS
+*NAME*: NIKITA PAWAR
+*INTERN ID*: CT04WL83
+*DOMAIN NAME*: FULL STACK WEB DEVELOPMENT
+*DURATION*:4 WEEKS
+*MENTOR*: NEELA SANTOSH
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
