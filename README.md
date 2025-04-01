@@ -77,4 +77,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # REAL-TIME-COLLABORATIVE-DOCUMENT-EDITOR
-output:"search-ms:displayname=Search%20Results%20in%20Pictures&crumb=System.Generic.String%3Aout&crumb=location:C%3A%5CUsers%5CNikita%5COneDrive%5CPictures"
+  
+![output](https://github.com/user-attachments/assets/c376e261-cfa4-4d13-b98a-d5ffd7cb9abd)
+
